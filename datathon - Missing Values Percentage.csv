@@ -1,0 +1,283 @@
+Feature,missing data percentage 
+Present value of external debt (% of GNI) [DT.DOD.PVLX.GN.ZS],99.97%
+"Present value of external debt (% of exports of goods, services and primary income) [DT.DOD.PVLX.EX.ZS]",96.50%
+Present value of external debt (current US$) [DT.DOD.PVLX.CD],96.28%
+"Children in employment, total (% of children ages 7-14) [SL.TLF.0714.ZS]",96.19%
+Firms that spend on R&D (% of firms) [IC.FRM.RSDV.ZS],92.32%
+Power outages in firms in a typical month (number) [IC.ELC.OUTG],91.80%
+"Human capital index (HCI), male (scale 0-1) [HD.HCI.OVRL.MA]",83.85%
+"Human capital index (HCI), female (scale 0-1) [HD.HCI.OVRL.FE]",83.81%
+Taxes on exports (% of tax revenue) [GC.TAX.EXPT.ZS],81.91%
+Human capital index (HCI) (scale 0-1) [HD.HCI.OVRL],81.51%
+Poverty headcount ratio at national poverty lines (% of population) [SI.POV.NAHC],76.66%
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$) [DT.NFL.BOND.CD]",75.80%
+Electric power consumption (kWh per capita) [EG.USE.ELEC.KH.PC],73.74%
+"Energy imports, net (% of energy use) [EG.IMP.CONS.ZS]",73.03%
+Energy use (kg of oil equivalent per capita) [EG.USE.PCAP.KG.OE],73.03%
+"Central government debt, total (% of GDP) [GC.DOD.TOTL.GD.ZS]",72.08%
+Logistics performance index: Ability to track and trace consignments (1=low to 5=high) [LP.LPI.TRAC.XQ],71.65%
+Logistics performance index: Competence and quality of logistics services (1=low to 5=high) [LP.LPI.LOGS.XQ],71.65%
+Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high) [LP.LPI.ITRN.XQ],71.65%
+Logistics performance index: Efficiency of customs clearance process (1=low to 5=high) [LP.LPI.CUST.XQ],71.65%
+Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high) [LP.LPI.TIME.XQ],71.65%
+Logistics performance index: Overall (1=low to 5=high) [LP.LPI.OVRL.XQ],71.65%
+Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high) [LP.LPI.INFR.XQ],71.65%
+"Risk premium on lending (lending rate minus treasury bill rate, %) [FR.INR.RISK]",70.15%
+Net investment in nonfinancial assets (% of GDP) [GC.NFN.TOTL.GD.ZS],68.70%
+"Stocks traded, total value (% of GDP) [CM.MKT.TRAD.GD.ZS]",68.09%
+"Stocks traded, total value (current US$) [CM.MKT.TRAD.CD]",68.09%
+Income share held by fourth 20% [SI.DST.04TH.20],67.48%
+Income share held by highest 10% [SI.DST.10TH.10],67.48%
+Income share held by highest 20% [SI.DST.05TH.20],67.48%
+Income share held by lowest 10% [SI.DST.FRST.10],67.48%
+Income share held by lowest 20% [SI.DST.FRST.20],67.48%
+Income share held by second 20% [SI.DST.02ND.20],67.48%
+Income share held by third 20% [SI.DST.03RD.20],67.48%
+Gini index [SI.POV.GINI],67.44%
+Poverty gap at $2.15 a day (2017 PPP) (%) [SI.POV.GAPS],67.44%
+Poverty gap at $3.65 a day (2017 PPP) (%) [SI.POV.LMIC.GP],67.44%
+Poverty gap at $6.85 a day (2017 PPP) (%) [SI.POV.UMIC.GP],67.44%
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population) [SI.POV.DDAY],67.44%
+Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population) [SI.POV.LMIC],67.44%
+Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population) [SI.POV.UMIC],67.44%
+Poverty headcount ratio at societal poverty line (% of population) [SI.POV.SOPO],67.44%
+"Individuals using the Internet, female (% of female population) [IT.NET.USER.FE.ZS]",67.23%
+"Individuals using the Internet, male (% of male population) [IT.NET.USER.MA.ZS]",67.20%
+"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions) [SE.XPD.CTER.ZS]",66.28%
+"Current education expenditure, total (% of total expenditure in public institutions) [SE.XPD.CTOT.ZS]",65.76%
+"Cost to export, border compliance (US$) [IC.EXP.CSBC.CD]",65.51%
+"Cost to import, border compliance (US$) [IC.IMP.CSBC.CD]",65.51%
+"Current education expenditure, primary (% of total expenditure in primary public institutions) [SE.XPD.CPRM.ZS]",65.42%
+"Current education expenditure, secondary (% of total expenditure in secondary public institutions) [SE.XPD.CSEC.ZS]",65.20%
+Machinery and transport equipment (% of value added in manufacturing) [NV.MNF.MTRN.ZS.UN],63.51%
+Social contributions (% of revenue) [GC.REV.SOCL.ZS],62.59%
+Other manufacturing (% of value added in manufacturing) [NV.MNF.OTHR.ZS.UN],61.18%
+Strength of legal rights index (0=weak to 12=strong) [IC.LGL.CRED.XQ],59.34%
+"Part time employment, female (% of total female employment) [SL.TLF.PART.FE.ZS]",56.91%
+"Part time employment, male (% of total male employment) [SL.TLF.PART.MA.ZS]",56.91%
+"Part time employment, total (% of total employment) [SL.TLF.PART.ZS]",56.91%
+Real effective exchange rate index (2010 = 100) [PX.REX.REER],56.54%
+"Net incurrence of liabilities, total (% of GDP) [GC.LBL.TOTL.GD.ZS]",55.62%
+"Unemployment with advanced education, female (% of female labor force with advanced education) [SL.UEM.ADVN.FE.ZS]",53.44%
+"Unemployment with advanced education, male (% of male labor force with advanced education) [SL.UEM.ADVN.MA.ZS]",53.32%
+"Labor force with basic education, male (% of male working-age population with basic education) [SL.TLF.BASC.MA.ZS]",53.29%
+"Labor force with advanced education, female (% of female working-age population with advanced education) [SL.TLF.ADVN.FE.ZS]",53.26%
+"Labor force with advanced education, male (% of male working-age population with advanced education) [SL.TLF.ADVN.MA.ZS]",53.26%
+Labor force with advanced education (% of total working-age population with advanced education) [SL.TLF.ADVN.ZS],53.22%
+Labor force with basic education (% of total working-age population with basic education) [SL.TLF.BASC.ZS],53.16%
+"Labor force with intermediate education, male (% of male working-age population with intermediate education) [SL.TLF.INTM.MA.ZS]",53.16%
+"Children out of school, male (% of male primary school age) [SE.PRM.UNER.MA.ZS]",53.13%
+"Labor force with basic education, female (% of female working-age population with basic education) [SL.TLF.BASC.FE.ZS]",53.13%
+"Labor force with intermediate education, female (% of female working-age population with intermediate education) [SL.TLF.INTM.FE.ZS]",53.13%
+"Children out of school, female (% of female primary school age) [SE.PRM.UNER.FE.ZS]",53.10%
+Labor force with intermediate education (% of total working-age population with intermediate education) [SL.TLF.INTM.ZS],53.10%
+Customs and other import duties (% of tax revenue) [GC.TAX.IMPT.ZS],53.04%
+Short-term debt (% of total reserves) [DT.DOD.DSTC.IR.ZS],53.01%
+"Unemployment with intermediate education, female (% of female labor force with intermediate education) [SL.UEM.INTM.FE.ZS]",52.89%
+"Unemployment with intermediate education, male (% of male labor force with intermediate education) [SL.UEM.INTM.MA.ZS]",52.73%
+"Children out of school, primary, male [SE.PRM.UNER.MA]",52.70%
+"Children out of school, primary, female [SE.PRM.UNER.FE]",52.67%
+Unemployment with advanced education (% of total labor force with advanced education) [SL.UEM.ADVN.ZS],52.67%
+"Unemployment with basic education, male (% of male labor force with basic education) [SL.UEM.BASC.MA.ZS]",52.52%
+"Unemployment with basic education, female (% of female labor force with basic education) [SL.UEM.BASC.FE.ZS]",52.46%
+Unemployment with basic education (% of total labor force with basic education) [SL.UEM.BASC.ZS],52.24%
+Unemployment with intermediate education (% of total labor force with intermediate education) [SL.UEM.INTM.ZS],52.18%
+Taxes on international trade (% of revenue) [GC.TAX.INTT.RV.ZS],50.61%
+"Short-term debt (% of exports of goods, services and primary income) [DT.DOD.DSTC.XP.ZS]",49.88%
+External debt stocks (% of GNI) [DT.DOD.DECT.GN.ZS],49.57%
+"Employment to population ratio, ages 15-24, male (%) (national estimate) [SL.EMP.1524.SP.MA.NE.ZS]",49.02%
+"Employment to population ratio, ages 15-24, female (%) (national estimate) [SL.EMP.1524.SP.FE.NE.ZS]",49.02%
+"Labor force participation rate for ages 15-24, female (%) (national estimate) [SL.TLF.ACTI.1524.FE.NE.ZS]",48.89%
+"Labor force participation rate for ages 15-24, male (%) (national estimate) [SL.TLF.ACTI.1524.MA.NE.ZS]",48.89%
+"Employment to population ratio, ages 15-24, total (%) (national estimate) [SL.EMP.1524.SP.NE.ZS]",48.83%
+"Labor force participation rate for ages 15-24, total (%) (national estimate) [SL.TLF.ACTI.1524.NE.ZS]",48.68%
+Other taxes (% of revenue) [GC.TAX.OTHR.RV.ZS],48.56%
+"Unemployment, youth female (% of female labor force ages 15-24) (national estimate) [SL.UEM.1524.FE.NE.ZS]",48.50%
+"Unemployment, youth male (% of male labor force ages 15-24) (national estimate) [SL.UEM.1524.MA.NE.ZS]",48.50%
+"Unemployment, youth total (% of total labor force ages 15-24) (national estimate) [SL.UEM.1524.NE.ZS]",47.91%
+"Total debt service (% of exports of goods, services and primary income) [DT.TDS.DECT.EX.ZS]",47.39%
+"Interest rate spread (lending rate minus deposit rate, %) [FR.INR.LNDP]",46.28%
+"Employment to population ratio, 15+, male (%) (national estimate) [SL.EMP.TOTL.SP.MA.NE.ZS]",46.01%
+"Employment to population ratio, 15+, female (%) (national estimate) [SL.EMP.TOTL.SP.FE.NE.ZS]",45.92%
+Bank capital to assets ratio (%) [FB.BNK.CAPA.ZS],45.79%
+Total debt service (% of GNI) [DT.TDS.DECT.GN.ZS],45.79%
+"External debt stocks, total (DOD, current US$) [DT.DOD.DECT.CD]",45.15%
+"Labor force participation rate, female (% of female population ages 15+) (national estimate) [SL.TLF.CACT.FE.NE.ZS]",45.12%
+"Labor force participation rate, male (% of male population ages 15+) (national estimate) [SL.TLF.CACT.MA.NE.ZS]",45.12%
+Ratio of female to male labor force participation rate (%) (national estimate) [SL.TLF.CACT.FM.NE.ZS],45.12%
+Other expense (% of expense) [GC.XPN.OTHR.ZS],45.06%
+Short-term debt (% of total external debt) [DT.DOD.DSTC.ZS],45.06%
+Bank nonperforming loans to total gross loans (%) [FB.AST.NPER.ZS],44.69%
+"Unemployment, female (% of female labor force) (national estimate) [SL.UEM.TOTL.FE.NE.ZS]",44.53%
+"Unemployment, male (% of male labor force) (national estimate) [SL.UEM.TOTL.MA.NE.ZS]",44.53%
+"Employment to population ratio, 15+, total (%) (national estimate) [SL.EMP.TOTL.SP.NE.ZS]",44.35%
+"Labor force participation rate, total (% of total population ages 15+) (national estimate) [SL.TLF.CACT.NE.ZS]",43.95%
+Interest payments (% of expense) [GC.XPN.INTP.ZS],42.97%
+Interest payments (% of revenue) [GC.XPN.INTP.RV.ZS],42.97%
+"Taxes on income, profits and capital gains (% of revenue) [GC.TAX.YPKG.RV.ZS]",42.97%
+Adjusted net national income (annual % growth) [NY.ADJ.NNTY.KD.ZG],42.87%
+Adjusted net national income per capita (annual % growth) [NY.ADJ.NNTY.PC.KD.ZG],42.87%
+"Taxes on income, profits and capital gains (% of total taxes) [GC.TAX.YPKG.ZS]",42.81%
+Taxes on goods and services (% value added of industry and services) [GC.TAX.GSRV.VA.ZS],42.72%
+"Unemployment, total (% of total labor force) (national estimate) [SL.UEM.TOTL.NE.ZS]",42.66%
+Real interest rate (%) [FR.INR.RINR],42.57%
+Net lending (+) / net borrowing (-) (% of GDP) [GC.NLD.TOTL.GD.ZS],42.51%
+Lending interest rate (%) [FR.INR.LEND],42.44%
+Goods and services expense (% of expense) [GC.XPN.GSRV.ZS],42.32%
+Taxes on goods and services (% of revenue) [GC.TAX.GSRV.RV.ZS],41.95%
+Primary government expenditures as a proportion of original approved budget (%) [GF.XPD.BUDG.ZS],41.77%
+Expense (% of GDP) [GC.XPN.TOTL.GD.ZS],41.71%
+Tax revenue (% of GDP) [GC.TAX.TOTL.GD.ZS],41.25%
+"Air transport, freight (million ton-km) [IS.AIR.GOOD.MT.K1]",40.60%
+Labor tax and contributions (% of commercial profits) [IC.TAX.LABR.CP.ZS],38.24%
+Tax payments (number) [IC.TAX.PAYM],38.24%
+Cost of business start-up procedures (% of GNI per capita) [IC.REG.COST.PC.ZS],38.08%
+"Cost of business start-up procedures, female (% of GNI per capita) [IC.REG.COST.PC.FE.ZS]",38.08%
+"Cost of business start-up procedures, male (% of GNI per capita) [IC.REG.COST.PC.MA.ZS]",38.08%
+Children out of school (% of primary school age) [SE.PRM.UNER.ZS],37.78%
+Military expenditure (% of general government expenditure) [MS.MIL.XPND.ZS],37.71%
+"Air transport, registered carrier departures worldwide [IS.AIR.DPRT]",37.59%
+"Children out of school, primary [SE.PRM.UNER]",37.50%
+Military expenditure (% of GDP) [MS.MIL.XPND.GD.ZS],35.38%
+Bank liquid reserves to bank assets ratio (%) [FD.RES.LIQU.AS.ZS],34.58%
+"Government expenditure on education, total (% of government expenditure) [SE.XPD.TOTL.GB.ZS]",33.72%
+Military expenditure (current USD) [MS.MIL.XPND.CD],33.26%
+GNI growth (annual %) [NY.GNP.MKTP.KD.ZG],31.60%
+Broad money growth (annual %) [FM.LBL.BMNY.ZG],31.05%
+GNI per capita growth (annual %) [NY.GNP.PCAP.KD.ZG],31.02%
+Broad money (% of GDP) [FM.LBL.BMNY.GD.ZS],30.84%
+"Government expenditure on education, total (% of GDP) [SE.XPD.TOTL.GD.ZS]",29.64%
+Adjusted net national income (current US$) [NY.ADJ.NNTY.CD],29.36%
+Adjusted net national income per capita (current US$) [NY.ADJ.NNTY.PC.CD],29.36%
+Gross capital formation (annual % growth) [NE.GDI.TOTL.KD.ZG],29.05%
+High-technology exports (current US$) [TX.VAL.TECH.CD],28.96%
+Gross national expenditure deflator (base year varies by country) [NE.DAB.DEFL.ZS],28.78%
+Gross fixed capital formation (annual % growth) [NE.GDI.FTOT.KD.ZG],28.19%
+"Portfolio equity, net inflows (BoP, current US$) [BX.PEF.TOTL.CD.WD]",27.95%
+Gross savings (% of GDP) [NY.GNS.ICTR.ZS],27.18%
+Gross savings (% of GNI) [NY.GNS.ICTR.GN.ZS],27.18%
+Gross savings (current US$) [NY.GNS.ICTR.CD],27.18%
+General government final consumption expenditure (annual % growth) [NE.CON.GOVT.KD.ZG],26.11%
+Households and NPISHs Final consumption expenditure per capita growth (annual %) [NE.CON.PRVT.PC.KD.ZG],25.03%
+"Current health expenditure per capita, PPP (current international $) [SH.XPD.CHEX.PP.CD]",24.94%
+Current health expenditure per capita (current US$) [SH.XPD.CHEX.PC.CD],24.91%
+Current health expenditure (% of GDP) [SH.XPD.CHEX.GD.ZS],24.88%
+Adjusted savings: education expenditure (current US$) [NY.ADJ.AEDU.CD],24.75%
+Final consumption expenditure (annual % growth) [NE.CON.TOTL.KD.ZG],24.69%
+Households and NPISHs Final consumption expenditure (annual % growth) [NE.CON.PRVT.KD.ZG],24.39%
+Exports of goods and services (annual % growth) [NE.EXP.GNFS.KD.ZG],24.14%
+Imports of goods and services (annual % growth) [NE.IMP.GNFS.KD.ZG],24.14%
+Ores and metals exports (% of merchandise exports) [TX.VAL.MMTL.ZS.UN],23.99%
+Manufactures exports (% of merchandise exports) [TX.VAL.MANF.ZS.UN],23.86%
+"Households and NPISHs Final consumption expenditure, PPP (current international $) [NE.CON.PRVT.PP.CD]",23.83%
+Ores and metals imports (% of merchandise imports) [TM.VAL.MMTL.ZS.UN],23.62%
+Manufactures imports (% of merchandise imports) [TM.VAL.MANF.ZS.UN],23.53%
+"Net capital account (BoP, current US$) [BN.TRF.KOGT.CD]",23.25%
+Gross fixed capital formation (current US$) [NE.GDI.FTOT.CD],22.51%
+Gross fixed capital formation (% of GDP) [NE.GDI.FTOT.ZS],22.45%
+Oil rents (% of GDP) [NY.GDP.PETR.RT.ZS],21.84%
+"Portfolio investment, net (BoP, current US$) [BN.KLT.PTXL.CD]",21.19%
+Gross national expenditure (current US$) [NE.DAB.TOTL.CD],20.98%
+Gross national expenditure (% of GDP) [NE.DAB.TOTL.ZS],20.92%
+Gross capital formation (current US$) [NE.GDI.TOTL.CD],20.52%
+Gross capital formation (% of GDP) [NE.GDI.TOTL.ZS],20.45%
+"Foreign direct investment, net outflows (% of GDP) [BM.KLT.DINV.WD.GD.ZS]",20.42%
+Adjusted savings: education expenditure (% of GNI) [NY.ADJ.AEDU.GN.ZS],20.21%
+General government final consumption expenditure (current US$) [NE.CON.GOVT.CD],20.15%
+General government final consumption expenditure (% of GDP) [NE.CON.GOVT.ZS],20.09%
+Final consumption expenditure (current US$) [NE.CON.TOTL.CD],19.72%
+Gross domestic savings (current US$) [NY.GDS.TOTL.CD],19.72%
+Final consumption expenditure (% of GDP) [NE.CON.TOTL.ZS],19.66%
+Gross domestic savings (% of GDP) [NY.GDS.TOTL.ZS],19.66%
+Export value index (2015 = 100) [TX.VAL.MRCH.XD.WD],19.47%
+Export volume index (2015 = 100) [TX.QTY.MRCH.XD.WD],19.47%
+"Foreign direct investment, net outflows (BoP, current US$) [BM.KLT.DINV.CD.WD]",19.47%
+Import value index (2015 = 100) [TM.VAL.MRCH.XD.WD],19.47%
+Import volume index (2015 = 100) [TM.QTY.MRCH.XD.WD],19.47%
+Households and NPISHs Final consumption expenditure (current US$) [NE.CON.PRVT.CD],19.29%
+Households and NPISHs final consumption expenditure (% of GDP) [NE.CON.PRVT.ZS],19.23%
+Net barter terms of trade index (2015 = 100) [TT.PRI.MRCH.XD.WD],18.92%
+"Manufacturing, value added (annual % growth) [NV.IND.MANF.KD.ZG]",18.73%
+"Secondary income, other sectors, payments (BoP, current US$) [BM.TRF.PRVT.CD]",17.54%
+"Secondary income receipts (BoP, current US$) [BX.TRF.CURR.CD]",17.44%
+Transport services (% of commercial service exports) [TX.VAL.TRAN.ZS.WT],17.23%
+"Transport services (% of service exports, BoP) [BX.GSR.TRAN.ZS]",17.23%
+Exports of goods and services (current US$) [NE.EXP.GNFS.CD],16.65%
+Imports of goods and services (current US$) [NE.IMP.GNFS.CD],16.65%
+Exports of goods and services (% of GDP) [NE.EXP.GNFS.ZS],16.58%
+External balance on goods and services (% of GDP) [NE.RSB.GNFS.ZS],16.58%
+Imports of goods and services (% of GDP) [NE.IMP.GNFS.ZS],16.58%
+Trade (% of GDP) [NE.TRD.GNFS.ZS],16.58%
+Transport services (% of commercial service imports) [TM.VAL.TRAN.ZS.WT],16.58%
+"Transport services (% of service imports, BoP) [BM.GSR.TRAN.ZS]",16.58%
+"Foreign direct investment, net (BoP, current US$) [BN.KLT.DINV.CD]",16.34%
+"Net errors and omissions (BoP, current US$) [BN.KAC.EOMS.CD]",15.91%
+"Net financial account (BoP, current US$) [BN.FIN.TOTL.CD]",15.91%
+Current account balance (% of GDP) [BN.CAB.XOKA.GD.ZS],15.88%
+Trade in services (% of GDP) [BG.GSR.NFSV.GD.ZS],15.88%
+"Current account balance (BoP, current US$) [BN.CAB.XOKA.CD]",15.82%
+"Exports of goods and services (BoP, current US$) [BX.GSR.GNFS.CD]",15.82%
+"Exports of goods, services and primary income (BoP, current US$) [BX.GSR.TOTL.CD]",15.82%
+"Goods exports (BoP, current US$) [BX.GSR.MRCH.CD]",15.82%
+"Goods imports (BoP, current US$) [BM.GSR.MRCH.CD]",15.82%
+"Imports of goods and services (BoP, current US$) [BM.GSR.GNFS.CD]",15.82%
+"Imports of goods, services and primary income (BoP, current US$) [BM.GSR.TOTL.CD]",15.82%
+"Inflation, consumer prices (annual %) [FP.CPI.TOTL.ZG]",15.82%
+"Net primary income (BoP, current US$) [BN.GSR.FCTY.CD]",15.82%
+"Net secondary income (BoP, current US$) [BN.TRF.CURR.CD]",15.82%
+"Net trade in goods (BoP, current US$) [BN.GSR.MRCH.CD]",15.82%
+"Net trade in goods and services (BoP, current US$) [BN.GSR.GNFS.CD]",15.82%
+"Primary income payments (BoP, current US$) [BM.GSR.FCTY.CD]",15.82%
+"Primary income receipts (BoP, current US$) [BX.GSR.FCTY.CD]",15.82%
+"Service exports (BoP, current US$) [BX.GSR.NFSV.CD]",15.82%
+"Service imports (BoP, current US$) [BM.GSR.NFSV.CD]",15.82%
+"Mortality rate, infant (per 1,000 live births) [SP.DYN.IMRT.IN]",15.69%
+"Mortality rate, infant, female (per 1,000 live births) [SP.DYN.IMRT.FE.IN]",15.69%
+"Mortality rate, infant, male (per 1,000 live births) [SP.DYN.IMRT.MA.IN]",15.69%
+Consumer price index (2010 = 100) [FP.CPI.TOTL],15.57%
+Taxes less subsidies on products (current US$) [NY.TAX.NIND.CD],14.16%
+"Manufacturing, value added (current US$) [NV.IND.MANF.CD]",14.10%
+"Manufacturing, value added (% of GDP) [NV.IND.MANF.ZS]",14.04%
+"Labor force, female (% of total labor force) [SL.TLF.TOTL.FE.ZS]",13.91%
+"Labor force, total [SL.TLF.TOTL.IN]",13.91%
+"Foreign direct investment, net inflows (% of GDP) [BX.KLT.DINV.WD.GD.ZS]",13.88%
+Individuals using the Internet (% of population) [IT.NET.USER.ZS],13.79%
+"Services, value added (annual % growth) [NV.SRV.TOTL.KD.ZG]",13.36%
+Net secondary income (Net current transfers from abroad) (current US$) [NY.TRF.NCTR.CD],13.18%
+"Foreign direct investment, net inflows (BoP, current US$) [BX.KLT.DINV.CD.WD]",12.87%
+"Mortality rate, adult, female (per 1,000 female adults) [SP.DYN.AMRT.FE]",12.35%
+"Mortality rate, adult, male (per 1,000 male adults) [SP.DYN.AMRT.MA]",12.35%
+"GNI per capita, PPP (current international $) [NY.GNP.PCAP.PP.CD]",10.14%
+"GNI, PPP (current international $) [NY.GNP.MKTP.PP.CD]",10.14%
+"Life expectancy at birth, female (years) [SP.DYN.LE00.FE.IN]",9.80%
+"Life expectancy at birth, male (years) [SP.DYN.LE00.MA.IN]",9.80%
+"Life expectancy at birth, total (years) [SP.DYN.LE00.IN]",9.80%
+Net primary income (Net income from abroad) (current US$) [NY.GSR.NFCY.CD],9.74%
+"Services, value added (current US$) [NV.SRV.TOTL.CD]",9.12%
+"Services, value added (% of GDP) [NV.SRV.TOTL.ZS]",9.06%
+"GDP per capita, PPP (current international $) [NY.GDP.PCAP.PP.CD]",8.42%
+"GDP, PPP (current international $) [NY.GDP.MKTP.PP.CD]",8.42%
+GNI (current US$) [NY.GNP.MKTP.CD],7.99%
+"Death rate, crude (per 1,000 people) [SP.DYN.CDRT.IN]",7.89%
+Merchandise trade (% of GDP) [TG.VAL.TOTL.GD.ZS],7.71%
+Population density (people per sq. km of land area) [EN.POP.DNST],7.65%
+Merchandise imports (current US$) [TM.VAL.MRCH.CD.WT],6.36%
+Merchandise exports (current US$) [TX.VAL.MRCH.CD.WT],6.27%
+Export unit value index (2015 = 100) [TX.UVI.MRCH.XD.WD],5.74%
+Import unit value index (2015 = 100) [TM.UVI.MRCH.XD.WD],5.74%
+GDP (constant 2015 US$) [NY.GDP.MKTP.KD],4.55%
+"Inflation, GDP deflator (annual %) [NY.GDP.DEFL.KD.ZG]",4.39%
+GDP deflator (base year varies by country) [NY.GDP.DEFL.ZS],4.15%
+GDP growth (annual %) [NY.GDP.MKTP.KD.ZG],4.15%
+GDP per capita growth (annual %) [NY.GDP.PCAP.KD.ZG],4.15%
+GDP (current US$) [NY.GDP.MKTP.CD],3.35%
+GDP per capita (current US$) [NY.GDP.PCAP.CD],3.19%
+Population growth (annual %) [SP.POP.GROW],0.03%
+Country Code,0.00%
+Time,0.00%
+Time Code,0.00%
+"Population, female [SP.POP.TOTL.FE.IN]",0.00%
+"Population, female (% of total population) [SP.POP.TOTL.FE.ZS]",0.00%
+"Population, male [SP.POP.TOTL.MA.IN]",0.00%
+"Population, male (% of total population) [SP.POP.TOTL.MA.ZS]",0.00%
+"Population, total [SP.POP.TOTL]",0.00%
